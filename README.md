@@ -5,9 +5,11 @@ it is without php or javascript. You can find project with php and nice function
 Index.html:
 ![image](https://user-images.githubusercontent.com/92724870/172604826-8a09e2c6-b819-42d0-83a1-d6d4c821f3bc.png)
 You can access youtube, spotify and facebook of RedhotchiliPeppers band through footer in every page by clicking the icon:
-![image](https://user-images.githubusercontent.com/92724870/172605632-ea7a4206-0d4d-42fc-a5f0-fb7f0e8a14ec.png)
+![footer](https://user-images.githubusercontent.com/92724870/172607019-03d133b8-5f27-4c77-8578-8259c32e869a.png)
+
 You can access other pages through header in every page:
-![image](https://user-images.githubusercontent.com/92724870/172605983-a50122da-ed28-48a7-ba95-b61af9bf3273.png)
+![header](https://user-images.githubusercontent.com/92724870/172607185-326752b5-53a6-403a-ae70-a23c14466926.png)
+
 
 Store.html:![image](https://user-images.githubusercontent.com/92724870/172606076-e60acc82-1efa-45a9-bc06-48416786614b.png)
 ![image](https://user-images.githubusercontent.com/92724870/172606456-272f9be4-5839-4088-85bf-171063ffd5d8.png)
