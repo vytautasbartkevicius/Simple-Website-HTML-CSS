@@ -17,7 +17,6 @@ Store.html:![image](https://user-images.githubusercontent.com/92724870/172606076
 ![image](https://user-images.githubusercontent.com/92724870/172606456-272f9be4-5839-4088-85bf-171063ffd5d8.png)
 
 About.html:![image](https://user-images.githubusercontent.com/92724870/172606556-2d87be08-5324-48e4-9c1d-01a690037ee8.png)
-![image](https://user-images.githubusercontent.com/92724870/172606601-38071bc6-fc4a-476d-bac2-3736fe0e5a6a.png)
 
 
 
